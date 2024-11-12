@@ -21,8 +21,8 @@ This project is a Python-based web scraper designed to automate the download of 
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/indonesian-fisheries-jdih-scraper.git
-   cd indonesian-fisheries-jdih-scraper
+   git clone https://github.com/FTK6370/jdih-scraper.git
+   cd jdih-scraper
 
     Set up a virtual environment (optional but recommended):
 
